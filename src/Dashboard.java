@@ -1,3 +1,9 @@
+/*
+Author: Sazid Nur Ratul
+Facebook: https://www.facebook.com/sazidnur
+Linkedin: https://www.linkedin.com/in/sazidnur
+*/
+
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.io.File;
